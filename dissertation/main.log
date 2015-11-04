@@ -1,0 +1,580 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.9)  6 OCT 2015 13:22
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count87
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count96
+\Gm@cntv=\count97
+\c@Gm@tempcnt=\count98
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks17
+\float@box=\box28
+\@float@everytoks=\toks18
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+\c@lstlisting=\count101
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=620.43001pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen117
+\scratchbox=\box30
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen118
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1] (./main.toc)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [2
+
+] (./main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [3
+
+] [1
+
+] [2]
+<images/Navigation.jpg, id=24, 507.8975pt x 169.63374pt>
+File: images/Navigation.jpg Graphic file (type jpg)
+
+<use images/Navigation.jpg>
+Package pdftex.def Info: images/Navigation.jpg used on input line 142.
+(pdftex.def)             Requested size: 369.88582pt x 123.54169pt.
+ <images/MVC.jpg, id=26, 201.75375pt x 218.8175pt>
+File: images/MVC.jpg Graphic file (type jpg)
+
+<use images/MVC.jpg>
+Package pdftex.def Info: images/MVC.jpg used on input line 154.
+(pdftex.def)             Requested size: 99.95306pt x 108.405pt.
+ [3
+
+ <./images/Navigation.jpg> <./images/MVC.jpg>]
+<images/loginPage.jpg, id=33, 454.69875pt x 526.96875pt>
+File: images/loginPage.jpg Graphic file (type jpg)
+
+<use images/loginPage.jpg>
+Package pdftex.def Info: images/loginPage.jpg used on input line 167.
+(pdftex.def)             Requested size: 374.16669pt x 433.62pt.
+
+
+LaTeX Warning: File `images/Check Login Code.jpg' not found on input line 176.
+
+<images/Check Login Code.jpg, id=34, 667.49374pt x 129.48375pt>
+File: images/Check Login Code.jpg Graphic file (type jpg)
+
+<use images/Check Login Code.jpg>
+Package pdftex.def Info: images/Check Login Code.jpg used on input line 176.
+(pdftex.def)             Requested size: 426.79134pt x 82.79224pt.
+ [4
+
+ <./images/loginPage.jpg>]
+<images/JavaScriptCheckImage.jpg, id=39, 437.635pt x 484.81125pt>
+File: images/JavaScriptCheckImage.jpg Graphic file (type jpg)
+
+<use images/JavaScriptCheckImage.jpg>
+Package pdftex.def Info: images/JavaScriptCheckImage.jpg used on input line 188
+.
+(pdftex.def)             Requested size: 260.96033pt x 289.07999pt.
+ [5 <./images/Check Login Code.jpg> <./images/JavaScriptCheckImage.jpg>]
+<images/loginError.jpg, id=45, 317.185pt x 81.30376pt>
+File: images/loginError.jpg Graphic file (type jpg)
+
+<use images/loginError.jpg>
+Package pdftex.def Info: images/loginError.jpg used on input line 204.
+(pdftex.def)             Requested size: 426.79134pt x 109.40794pt.
+
+<images/SuperUserRedirect.jpg, id=46, 787.94376pt x 135.50626pt>
+File: images/SuperUserRedirect.jpg Graphic file (type jpg)
+
+<use images/SuperUserRedirect.jpg>
+Package pdftex.def Info: images/SuperUserRedirect.jpg used on input line 214.
+(pdftex.def)             Requested size: 426.79134pt x 73.39558pt.
+ [6
+
+ <./images/loginError.jpg> <./images/SuperUserRedirect.jpg>] <images/RegisterPa
+ge.jpg, id=52, 385.44pt x 513.92pt>
+File: images/RegisterPage.jpg Graphic file (type jpg)
+
+<use images/RegisterPage.jpg>
+Package pdftex.def Info: images/RegisterPage.jpg used on input line 228.
+(pdftex.def)             Requested size: 325.22008pt x 433.62pt.
+ [7 <./images/RegisterPage.jpg>]
+<images/MysqlUserTable.jpg, id=57, 439.6425pt x 221.82875pt>
+File: images/MysqlUserTable.jpg Graphic file (type jpg)
+
+<use images/MysqlUserTable.jpg>
+Package pdftex.def Info: images/MysqlUserTable.jpg used on input line 242.
+(pdftex.def)             Requested size: 429.69286pt x 216.81pt.
+ [8
+
+ <./images/MysqlUserTable.jpg>]
+<images/RegistJavaScript.jpg, id=62, 774.895pt x 466.74374pt>
+File: images/RegistJavaScript.jpg Graphic file (type jpg)
+
+<use images/RegistJavaScript.jpg>
+Package pdftex.def Info: images/RegistJavaScript.jpg used on input line 262.
+(pdftex.def)             Requested size: 426.79134pt x 257.07306pt.
+
+<images/RegisterEmailIncorrect.jpg, id=63, 426.59375pt x 156.585pt>
+File: images/RegisterEmailIncorrect.jpg Graphic file (type jpg)
+
+<use images/RegisterEmailIncorrect.jpg>
+Package pdftex.def Info: images/RegisterEmailIncorrect.jpg used on input line 2
+72.
+(pdftex.def)             Requested size: 284.52756pt x 104.44548pt.
+ [9
+
+ <./images/RegistJavaScript.jpg> <./images/RegisterEmailIncorrect.jpg>]
+<images/RegisterServletMainCode.jpg, id=70, 864.22874pt x 529.98pt>
+File: images/RegisterServletMainCode.jpg Graphic file (type jpg)
+
+<use images/RegisterServletMainCode.jpg>
+Package pdftex.def Info: images/RegisterServletMainCode.jpg used on input line 
+289.
+(pdftex.def)             Requested size: 426.79134pt x 261.72226pt.
+
+<images/RegisterSameUsernameError.jpg, id=71, 472.76625pt x 30.1125pt>
+File: images/RegisterSameUsernameError.jpg Graphic file (type jpg)
+
+<use images/RegisterSameUsernameError.jpg>
+Package pdftex.def Info: images/RegisterSameUsernameError.jpg used on input lin
+e 297.
+(pdftex.def)             Requested size: 426.79134pt x 27.1846pt.
+ [10 <./images/RegisterServletMainCode.jpg> <./images/RegisterSameUsernameError
+.jpg>]
+<images/EditPersonalInformation.jpg, id=77, 385.44pt x 493.845pt>
+File: images/EditPersonalInformation.jpg Graphic file (type jpg)
+
+<use images/EditPersonalInformation.jpg>
+Package pdftex.def Info: images/EditPersonalInformation.jpg used on input line 
+313.
+(pdftex.def)             Requested size: 169.21184pt x 216.81pt.
+
+<images/EditPersonalInformationMainSource.jpg, id=78, 758.835pt x 145.54375pt>
+File: images/EditPersonalInformationMainSource.jpg Graphic file (type jpg)
+
+<use images/EditPersonalInformationMainSource.jpg>
+Package pdftex.def Info: images/EditPersonalInformationMainSource.jpg used on i
+nput line 325.
+(pdftex.def)             Requested size: 426.79134pt x 81.85927pt.
+ [11 <./images/EditPersonalInformation.jpg> <./images/EditPersonalInformationMa
+inSource.jpg>]
+<images/PersonalInformation.jpg, id=84, 612.2875pt x 399.4925pt>
+File: images/PersonalInformation.jpg Graphic file (type jpg)
+
+<use images/PersonalInformation.jpg>
+Package pdftex.def Info: images/PersonalInformation.jpg used on input line 342.
+
+(pdftex.def)             Requested size: 426.79134pt x 278.46025pt.
+ [12 <./images/PersonalInformation.jpg>]
+<images/EditInformation.jpg, id=89, 613.29124pt x 472.76625pt>
+File: images/EditInformation.jpg Graphic file (type jpg)
+
+<use images/EditInformation.jpg>
+Package pdftex.def Info: images/EditInformation.jpg used on input line 358.
+(pdftex.def)             Requested size: 281.25644pt x 216.81pt.
+
+<images/EditInformationMainSource.jpg, id=90, 950.55125pt x 371.3875pt>
+File: images/EditInformationMainSource.jpg Graphic file (type jpg)
+
+<use images/EditInformationMainSource.jpg>
+Package pdftex.def Info: images/EditInformationMainSource.jpg used on input lin
+e 366.
+(pdftex.def)             Requested size: 426.79134pt x 166.74881pt.
+ [13
+
+ <./images/EditInformation.jpg> <./images/EditInformationMainSource.jpg>]
+<images/UserChangePasseword.jpg, id=96, 588.1975pt x 205.76875pt>
+File: images/UserChangePasseword.jpg Graphic file (type jpg)
+
+<use images/UserChangePasseword.jpg>
+Package pdftex.def Info: images/UserChangePasseword.jpg used on input line 379.
+
+(pdftex.def)             Requested size: 426.79134pt x 149.30566pt.
+
+<images/UserChangePasswordMainCode.jpg, id=97, 1154.3125pt x 462.72874pt>
+File: images/UserChangePasswordMainCode.jpg Graphic file (type jpg)
+
+<use images/UserChangePasswordMainCode.jpg>
+Package pdftex.def Info: images/UserChangePasswordMainCode.jpg used on input li
+ne 387.
+(pdftex.def)             Requested size: 426.79134pt x 171.08691pt.
+
+<images/UserChangePasswordFail.jpg, id=98, 351.3125pt x 64.24pt>
+File: images/UserChangePasswordFail.jpg Graphic file (type jpg)
+
+<use images/UserChangePasswordFail.jpg>
+Package pdftex.def Info: images/UserChangePasswordFail.jpg used on input line 3
+96.
+(pdftex.def)             Requested size: 426.79134pt x 78.04822pt.
+ [14
+
+ <./images/UserChangePasseword.jpg> <./images/UserChangePasswordMainCode.jpg>]
+<images/UserChangePasswordTwoTimesCheck.jpg, id=104, 617.30624pt x 148.555pt>
+File: images/UserChangePasswordTwoTimesCheck.jpg Graphic file (type jpg)
+
+<use images/UserChangePasswordTwoTimesCheck.jpg>
+Package pdftex.def Info: images/UserChangePasswordTwoTimesCheck.jpg used on inp
+ut line 406.
+(pdftex.def)             Requested size: 426.79134pt x 102.70932pt.
+ [15 <./images/UserChangePasswordFail.jpg> <./images/UserChangePasswordTwoTimes
+Check.jpg>]
+<images/OnlineTestUserInterface.jpg, id=111, 577.15625pt x 545.03625pt>
+File: images/OnlineTestUserInterface.jpg Graphic file (type jpg)
+
+<use images/OnlineTestUserInterface.jpg>
+Package pdftex.def Info: images/OnlineTestUserInterface.jpg used on input line 
+420.
+(pdftex.def)             Requested size: 306.11151pt x 289.07999pt.
+
+<images/JavaTestLogic.jpg, id=112, 1098.1025pt x 762.85pt>
+File: images/JavaTestLogic.jpg Graphic file (type jpg)
+
+<use images/JavaTestLogic.jpg>
+Package pdftex.def Info: images/JavaTestLogic.jpg used on input line 434.
+(pdftex.def)             Requested size: 455.24408pt x 316.25093pt.
+
+Overfull \hbox (21.62407pt too wide) in paragraph at lines 434--435
+ [][] 
+ []
+
+[16
+
+ <./images/OnlineTestUserInterface.jpg>] [17 <./images/JavaTestLogic.jpg>]
+<images/JavaTestQuestionList.jpg, id=121, 490.83376pt x 171.64125pt>
+File: images/JavaTestQuestionList.jpg Graphic file (type jpg)
+
+<use images/JavaTestQuestionList.jpg>
+Package pdftex.def Info: images/JavaTestQuestionList.jpg used on input line 455
+.
+(pdftex.def)             Requested size: 426.79134pt x 149.2507pt.
+
+<images/JavaTestRecord.jpg, id=122, 558.085pt x 167.62625pt>
+File: images/JavaTestRecord.jpg Graphic file (type jpg)
+
+<use images/JavaTestRecord.jpg>
+Package pdftex.def Info: images/JavaTestRecord.jpg used on input line 462.
+(pdftex.def)             Requested size: 426.79134pt x 128.19528pt.
+ [18
+
+ <./images/JavaTestQuestionList.jpg> <./images/JavaTestRecord.jpg>]
+<images/JavaTestCircle.jpg, id=128, 370.38374pt x 118.4425pt>
+File: images/JavaTestCircle.jpg Graphic file (type jpg)
+
+<use images/JavaTestCircle.jpg>
+Package pdftex.def Info: images/JavaTestCircle.jpg used on input line 476.
+(pdftex.def)             Requested size: 312.9803pt x 100.08742pt.
+
+<images/AutoRunningMainCode.jpg, id=129, 569.12625pt x 443.6575pt>
+File: images/AutoRunningMainCode.jpg Graphic file (type jpg)
+
+<use images/AutoRunningMainCode.jpg>
+Package pdftex.def Info: images/AutoRunningMainCode.jpg used on input line 488.
+
+(pdftex.def)             Requested size: 278.11877pt x 216.81pt.
+
+<images/TestResult.jpg, id=130, 528.97626pt x 376.40625pt>
+File: images/TestResult.jpg Graphic file (type jpg)
+
+<use images/TestResult.jpg>
+Package pdftex.def Info: images/TestResult.jpg used on input line 501.
+(pdftex.def)             Requested size: 426.79134pt x 303.69273pt.
+ [19 <./images/JavaTestCircle.jpg> <./images/AutoRunningMainCode.jpg>] [20 <./i
+mages/TestResult.jpg>]
+<images/ContactPage.jpg, id=140, 571.13374pt x 436.63126pt>
+File: images/ContactPage.jpg Graphic file (type jpg)
+
+<use images/ContactPage.jpg>
+Package pdftex.def Info: images/ContactPage.jpg used on input line 516.
+(pdftex.def)             Requested size: 426.79134pt x 326.28006pt.
+
+<images/ContactSuccess.jpg, id=141, 381.425pt x 113.42375pt>
+File: images/ContactSuccess.jpg Graphic file (type jpg)
+
+<use images/ContactSuccess.jpg>
+Package pdftex.def Info: images/ContactSuccess.jpg used on input line 525.
+(pdftex.def)             Requested size: 284.52756pt x 84.61241pt.
+ [21 <./images/ContactPage.jpg> <./images/ContactSuccess.jpg>] <images/SuperUse
+rFunction.jpg, id=148, 257.96375pt x 325.215pt>
+File: images/SuperUserFunction.jpg Graphic file (type jpg)
+
+<use images/SuperUserFunction.jpg>
+Package pdftex.def Info: images/SuperUserFunction.jpg used on input line 537.
+(pdftex.def)             Requested size: 114.65376pt x 144.54pt.
+
+<images/SuperUserEditQuestion.jpg, id=149, 908.39375pt x 281.05pt>
+File: images/SuperUserEditQuestion.jpg Graphic file (type jpg)
+
+<use images/SuperUserEditQuestion.jpg>
+Package pdftex.def Info: images/SuperUserEditQuestion.jpg used on input line 54
+5.
+(pdftex.def)             Requested size: 426.79134pt x 132.04634pt.
+
+<images/SuperUserContactDatabase.jpg, id=150, 405.515pt x 108.405pt>
+File: images/SuperUserContactDatabase.jpg Graphic file (type jpg)
+
+<use images/SuperUserContactDatabase.jpg>
+Package pdftex.def Info: images/SuperUserContactDatabase.jpg used on input line
+ 554.
+(pdftex.def)             Requested size: 405.51399pt x 108.40472pt.
+ [22 <./images/SuperUserFunction.jpg> <./images/SuperUserEditQuestion.jpg>]
+<images/SuperUserContactPage.jpg, id=156, 694.595pt x 158.5925pt>
+File: images/SuperUserContactPage.jpg Graphic file (type jpg)
+
+<use images/SuperUserContactPage.jpg>
+Package pdftex.def Info: images/SuperUserContactPage.jpg used on input line 563
+.
+(pdftex.def)             Requested size: 426.79134pt x 97.4503pt.
+ [23 <./images/SuperUserContactDatabase.jpg> <./images/SuperUserContactPage.jpg
+>] [24
+
+] (./main.bbl) [25
+
+] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3854 strings out of 493089
+ 58798 string characters out of 6134843
+ 223297 words of memory out of 5000000
+ 7265 multiletter control sequences out of 15000+600000
+ 10422 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,10n,43p,892b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb>
+Output written on main.pdf (29 pages, 1832686 bytes).
+PDF statistics:
+ 184 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+
